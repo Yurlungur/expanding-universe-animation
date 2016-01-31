@@ -60,5 +60,10 @@ target/
 
 #Ipython Notebook
 .ipynb_checkpoints
+
+# Animation stuff
 *.gif
 *.mp4
+
+# Those annoying temporary files that emacs loves to make
+.\#*
