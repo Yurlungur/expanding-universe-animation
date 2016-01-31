@@ -2,14 +2,15 @@
 
 Author: Jonah Miller (jonah.maxwell.miller@gmail.com)
 
-Time-stamp: <2016-01-31 17:48:09 (jmiller)>
+Time-stamp: <2016-01-31 17:49:01 (jmiller)>
 
 ## Requirements
 
-* python2 or python3, doesn't matter which. Note that I had trouble
-  saving the animation in python3 because of a
-  [known bug in numpy](https://github.com/matplotlib/matplotlib/issues/1891/). For
-  this reason, the code uses python2 by default.
+* python2 or python3, doesn't matter which.
+  * Note that I had trouble
+	saving the animation in python3 because of a
+	[known bug in numpy](https://github.com/matplotlib/matplotlib/issues/1891/). For
+	this reason, the code uses python2 by default.
 * matplotlib
 * numpy
 * ffmpeg
