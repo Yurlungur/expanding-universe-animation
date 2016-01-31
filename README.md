@@ -2,7 +2,7 @@
 
 Author: Jonah Miller (jonah.maxwell.miller@gmail.com)
 
-Time-stamp: <2016-01-31 17:47:13 (jmiller)>
+Time-stamp: <2016-01-31 17:48:09 (jmiller)>
 
 ## Requirements
 
@@ -31,6 +31,8 @@ a constant rate. This is the expanding universe we know and love.
 A key point is that in an expanding universe, every point looks like
 the center of an explosion, but there is no center. And there is no
 explosion.
+
+## Running
 
 To generate the animation, just clone the repository, enter it, and
 type `make`. This will generate an mp4 video and a gif.
